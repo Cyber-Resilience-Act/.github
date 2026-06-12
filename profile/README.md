@@ -1,6 +1,10 @@
-# Cyber Resilience Act / CRA Direct
+# Cyber Resilience Act
 
-Open resources, examples, and developer tools for software teams preparing for the EU Cyber Resilience Act.
+Independent open tools, examples, and implementation guidance for software teams preparing for the EU Cyber Resilience Act.
+
+Published by CRA Direct.
+
+> This organization is not affiliated with, endorsed by, or operated by the European Union, ENISA, any CSIRT, or any market surveillance authority.
 
 CRA Direct helps manufacturers of products with digital elements operate the regulated parts of CRA readiness:
 
@@ -44,5 +48,8 @@ Use it when you need:
 - verifiable audit trails
 - implementation support for product-security and compliance teams
 
-Contact: replace-with-your-email-or-website
+Contact: contact@cra-direct.fr
 
+## Positioning
+
+The public repositories help teams validate SBOMs, test stateless scanning, and understand CRA-oriented operating models. The hosted CRA Direct product adds the persistent system of record: products, versions, evidence, review cases, Article 14 workflows, notifications, and audit trails.

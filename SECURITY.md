@@ -2,7 +2,7 @@
 
 Please do not report security issues in public issues.
 
-Contact: replace-with-security-email
+Contact: security@cra-direct.fr
 
 Include:
 
@@ -10,4 +10,3 @@ Include:
 - reproduction steps
 - impact
 - suggested remediation, if known
-
